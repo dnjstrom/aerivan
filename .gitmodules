@@ -1,0 +1,36 @@
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/token"]
+	path = sites/all/modules/token
+	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/all/modules/pathauto"]
+	path = sites/all/modules/pathauto
+	url = http://git.drupal.org/project/pathauto.git
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/link"]
+	path = sites/all/modules/link
+	url = http://git.drupal.org/project/link.git
+[submodule "sites/all/modules/backup_migrate"]
+	path = sites/all/modules/backup_migrate
+	url = http://git.drupal.org/project/backup_migrate.git
+[submodule "sites/all/modules/advanced_help"]
+	path = sites/all/modules/advanced_help
+	url = http://git.drupal.org/project/advanced_help.git
+[submodule "sites/all/modules/panels"]
+	path = sites/all/modules/panels
+	url = http://git.drupal.org/project/panels.git
+[submodule "sites/all/modules/devel"]
+	path = sites/all/modules/devel
+	url = http://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/examples"]
+	path = sites/all/modules/examples
+	url = http://git.drupal.org/project/examples.git
+[submodule "sites/all/modules/git_deploy"]
+	path = sites/all/modules/git_deploy
+	url = http://git.drupal.org/project/git_deploy.git
